@@ -11,11 +11,7 @@
     <!-- Page Header -->
     <div class="page-header">
         <div class="container">
-            <h2 class="page-title">About SaaSera</h2>
-            <ol class="breadcrumb">
-                <li><a href="home-agency.html">Home</a></li>
-                <li class="active">About</li>
-            </ol>
+            <h2 class="page-title">About Us</h2>
         </div>
     </div>
     <!-- Page Header End -->
@@ -73,7 +69,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="cps-about-img">
-                            <img class="img-responsive" src="images/bg/mock-bg.png" alt="...">
+                            <img class="img-responsive" src="../images/bg/mock-bg.png" alt="...">
                         </div>
                     </div>
                 </div>
@@ -234,7 +230,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <div class="cps-member">
                                 <div class="cps-member-image">
-                                    <img class="img-responsive" src="images/team/1.1.jpg" alt="Member Image">
+                                    <img class="img-responsive" src="../images/team/1.1.jpg" alt="Member Image">
                                 </div>
                                 <div class="cps-member-hover">
                                     <div class="cps-member-hover-content">
@@ -253,7 +249,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <div class="cps-member">
                                 <div class="cps-member-image">
-                                    <img class="img-responsive" src="images/team/1.2.jpg" alt="Member Image">
+                                    <img class="img-responsive" src="../images/team/1.2.jpg" alt="Member Image">
                                 </div>
                                 <div class="cps-member-hover">
                                     <div class="cps-member-hover-content">
@@ -272,7 +268,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <div class="cps-member">
                                 <div class="cps-member-image">
-                                    <img class="img-responsive" src="images/team/1.3.jpg" alt="Member Image">
+                                    <img class="img-responsive" src="../images/team/1.3.jpg" alt="Member Image">
                                 </div>
                                 <div class="cps-member-hover">
                                     <div class="cps-member-hover-content">
@@ -293,31 +289,6 @@
             </div>
         </div>
         <!-- Team Section -->
-
-        <!-- Subscription -->
-        <div class="cps-section cps-section-padding cps-theme-bg" id="subscription-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <div class="cps-section-header text-center">
-                            <h3 class="cps-section-title">Subscribe us</h3>
-                            <p class="cps-section-text">Subscribe us if you are willing to get acknowledge what we are doing. Know about the most update work and many more. We will not share your email with any third party or will not make any spam mail</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-12">
-                        <form id="subscription" class="cps-subscription" action="#" method="post">
-                            <input type="email" name="email" placeholder="Enter your email here">
-                            <button type="submit"><i class="fa fa-paper-plane"></i></button>
-                            <p class="newsletter-success"></p>
-                            <p class="newsletter-error"></p>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Subscription End -->
     </div>
 
     <?php include 'footer.html';?>

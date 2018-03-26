@@ -124,7 +124,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="cps-about-img">
-                            <img class="img-responsive" src="images/bg/mock-bg.png" alt="...">
+                            <img class="img-responsive" src="../images/bg/mock-bg.png" alt="...">
                         </div>
                     </div>
                 </div>
@@ -369,13 +369,13 @@
                         <div class="col-md-4 col-xs-6 cps-grid-item cps-case-apps cps-case-web">
                             <div class="cps-case-study">
                                 <div class="cps-case-thumb">
-                                    <img class="img-responsive" src="images/case-study/1.jpg" alt="Case Study Image">
+                                    <img class="img-responsive" src="../images/case-study/1.jpg" alt="Case Study Image">
                                 </div>
                                 <div class="cps-case-hover">
                                     <div class="cps-case-hover-content">
                                         <h4 class="cps-case-title"><a href="#">Project Title</a></h4>
                                         <div class="cps-case-btns">
-                                            <a class="image-large" href="images/case-study/case1.jpg"><i class="fa fa-search-plus"></i></a>
+                                            <a class="image-large" href="../images/case-study/case1.jpg"><i class="fa fa-search-plus"></i></a>
                                             <a class="cps-case-link" href="case-study-single.html"><i class="fa fa-external-link"></i></a>
                                         </div>
                                     </div>
@@ -385,13 +385,13 @@
                         <div class="col-md-4 col-xs-6 cps-grid-item cps-case-marketing cps-case-apps">
                             <div class="cps-case-study">
                                 <div class="cps-case-thumb">
-                                    <img class="img-responsive" src="images/case-study/2.jpg" alt="Case Study Image">
+                                    <img class="img-responsive" src="../images/case-study/2.jpg" alt="Case Study Image">
                                 </div>
                                 <div class="cps-case-hover">
                                     <div class="cps-case-hover-content">
                                         <h4 class="cps-case-title"><a href="#">Project Title</a></h4>
                                         <div class="cps-case-btns">
-                                            <a class="image-large" href="images/case-study/2.jpg"><i class="fa fa-search-plus"></i></a>
+                                            <a class="image-large" href="../images/case-study/2.jpg"><i class="fa fa-search-plus"></i></a>
                                             <a class="cps-case-link" href="case-study-single.html"><i class="fa fa-external-link"></i></a>
                                         </div>
                                     </div>
@@ -401,13 +401,13 @@
                         <div class="col-md-4 col-xs-6 cps-grid-item cps-case-software">
                             <div class="cps-case-study">
                                 <div class="cps-case-thumb">
-                                    <img class="img-responsive" src="images/case-study/3.jpg" alt="Case Study Image">
+                                    <img class="img-responsive" src="../images/case-study/3.jpg" alt="Case Study Image">
                                 </div>
                                 <div class="cps-case-hover">
                                     <div class="cps-case-hover-content">
                                         <h4 class="cps-case-title"><a href="#">Project Title</a></h4>
                                         <div class="cps-case-btns">
-                                            <a class="image-large" href="images/case-study/case3.jpg"><i class="fa fa-search-plus"></i></a>
+                                            <a class="image-large" href="../images/case-study/case3.jpg"><i class="fa fa-search-plus"></i></a>
                                             <a class="cps-case-link" href="case-study-single.html"><i class="fa fa-external-link"></i></a>
                                         </div>
                                     </div>
@@ -417,13 +417,13 @@
                         <div class="col-md-4 col-xs-6 cps-grid-item cps-case-apps">
                             <div class="cps-case-study">
                                 <div class="cps-case-thumb">
-                                    <img class="img-responsive" src="images/case-study/4.jpg" alt="Case Study Image">
+                                    <img class="img-responsive" src="../images/case-study/4.jpg" alt="Case Study Image">
                                 </div>
                                 <div class="cps-case-hover">
                                     <div class="cps-case-hover-content">
                                         <h4 class="cps-case-title"><a href="#">Project Title</a></h4>
                                         <div class="cps-case-btns">
-                                            <a class="image-large" href="images/case-study/4.jpg"><i class="fa fa-search-plus"></i></a>
+                                            <a class="image-large" href="../images/case-study/4.jpg"><i class="fa fa-search-plus"></i></a>
                                             <a class="cps-case-link" href="case-study-single.html"><i class="fa fa-external-link"></i></a>
                                         </div>
                                     </div>
@@ -433,13 +433,13 @@
                         <div class="col-md-4 col-xs-6 cps-grid-item cps-case-software">
                             <div class="cps-case-study">
                                 <div class="cps-case-thumb">
-                                    <img class="img-responsive" src="images/case-study/5.jpg" alt="Case Study Image">
+                                    <img class="img-responsive" src="../images/case-study/5.jpg" alt="Case Study Image">
                                 </div>
                                 <div class="cps-case-hover">
                                     <div class="cps-case-hover-content">
                                         <h4 class="cps-case-title"><a href="#">Project Title</a></h4>
                                         <div class="cps-case-btns">
-                                            <a class="image-large" href="images/case-study/5.jpg"><i class="fa fa-search-plus"></i></a>
+                                            <a class="image-large" href="../images/case-study/5.jpg"><i class="fa fa-search-plus"></i></a>
                                             <a class="cps-case-link" href="case-study-single.html"><i class="fa fa-external-link"></i></a>
                                         </div>
                                     </div>
@@ -449,13 +449,13 @@
                         <div class="col-md-4 col-xs-6 cps-grid-item cps-case-marketing cps-case-web">
                             <div class="cps-case-study">
                                 <div class="cps-case-thumb">
-                                    <img class="img-responsive" src="images/case-study/6.jpg" alt="Case Study Image">
+                                    <img class="img-responsive" src="../images/case-study/6.jpg" alt="Case Study Image">
                                 </div>
                                 <div class="cps-case-hover">
                                     <div class="cps-case-hover-content">
                                         <h4 class="cps-case-title"><a href="#">Project Title</a></h4>
                                         <div class="cps-case-btns">
-                                            <a class="image-large" href="images/case-study/6.jpg"><i class="fa fa-search-plus"></i></a>
+                                            <a class="image-large" href="../images/case-study/6.jpg"><i class="fa fa-search-plus"></i></a>
                                             <a class="cps-case-link" href="case-study-single.html"><i class="fa fa-external-link"></i></a>
                                         </div>
                                     </div>
@@ -499,16 +499,16 @@
                 <div class="row">
                     <div class="cps-client-logoes">
                         <div class="col-md-3 col-xs-6">
-                            <a href="#" class="cps-client-logo"><img src="images/client/logo-1.png" alt="..."></a>
+                            <a href="#" class="cps-client-logo"><img src="../images/client/logo-1.png" alt="..."></a>
                         </div>
                         <div class="col-md-3 col-xs-6">
-                            <a href="#" class="cps-client-logo"><img src="images/client/logo-2.png" alt="..."></a>
+                            <a href="#" class="cps-client-logo"><img src="../images/client/logo-2.png" alt="..."></a>
                         </div>
                         <div class="col-md-3 col-xs-6">
-                            <a href="#" class="cps-client-logo"><img src="images/client/logo-3.png" alt="..."></a>
+                            <a href="#" class="cps-client-logo"><img src="../images/client/logo-3.png" alt="..."></a>
                         </div>
                         <div class="col-md-3 col-xs-6">
-                            <a href="#" class="cps-client-logo"><img src="images/client/logo-4.png" alt="..."></a>
+                            <a href="#" class="cps-client-logo"><img src="../images/client/logo-4.png" alt="..."></a>
                         </div>
                     </div>
                 </div>
@@ -533,7 +533,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <div class="cps-member">
                                 <div class="cps-member-image">
-                                    <img class="img-responsive" src="images/team/1.1.jpg" alt="Member Image">
+                                    <img class="img-responsive" src="../images/team/1.1.jpg" alt="Member Image">
                                 </div>
                                 <div class="cps-member-hover">
                                     <div class="cps-member-hover-content">
@@ -552,7 +552,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <div class="cps-member">
                                 <div class="cps-member-image">
-                                    <img class="img-responsive" src="images/team/1.2.jpg" alt="Member Image">
+                                    <img class="img-responsive" src="../images/team/1.2.jpg" alt="Member Image">
                                 </div>
                                 <div class="cps-member-hover">
                                     <div class="cps-member-hover-content">
@@ -571,7 +571,7 @@
                         <div class="col-sm-4 col-xs-12">
                             <div class="cps-member">
                                 <div class="cps-member-image">
-                                    <img class="img-responsive" src="images/team/1.3.jpg" alt="Member Image">
+                                    <img class="img-responsive" src="../images/team/1.3.jpg" alt="Member Image">
                                 </div>
                                 <div class="cps-member-hover">
                                     <div class="cps-member-hover-content">
@@ -609,7 +609,7 @@
                         <div class="col-sm-4">
                             <article class="cps-post">
                                 <a class="cps-post-thumb" href="blog-single.html">
-                                    <img class="img-responsive" src="images/blog/1.1.jpg" alt="...">
+                                    <img class="img-responsive" src="../images/blog/1.1.jpg" alt="...">
                                 </a>
                                 <div class="cps-post-content">
                                     <h4 class="cps-post-title"><a href="blog-single.html">First Firework in New York City</a></h4>
@@ -622,7 +622,7 @@
                         <div class="col-sm-4">
                             <article class="cps-post">
                                 <a class="cps-post-thumb" href="blog-single.html">
-                                    <img class="img-responsive" src="images/blog/1.2.jpg" alt="...">
+                                    <img class="img-responsive" src="../images/blog/1.2.jpg" alt="...">
                                 </a>
                                 <div class="cps-post-content">
                                     <h4 class="cps-post-title"><a href="blog-single.html">First Firework in New York City</a></h4>
@@ -635,7 +635,7 @@
                         <div class="col-sm-4">
                             <article class="cps-post">
                                 <a class="cps-post-thumb" href="blog-single.html">
-                                    <img class="img-responsive" src="images/blog/1.3.jpg" alt="...">
+                                    <img class="img-responsive" src="../images/blog/1.3.jpg" alt="...">
                                 </a>
                                 <div class="cps-post-content">
                                     <h4 class="cps-post-title"><a href="blog-single.html">First Firework in New York City</a></h4>
@@ -653,40 +653,7 @@
             </div>
         </div>
         <!-- News and blog end -->
-
-        <!-- Contact -->
-        <div class="cps-section cps-section-padding cps-theme-bg" id="cps-contact">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="cps-section-header text-center">
-                            <h3 class="cps-section-title">Get in Touch</h3>
-                            <p class="cps-section-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                        <form id="contactForm" class="cps-contact-form" action="#" method="post">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <input id="name" type="text" name="name" placeholder="Your Name">
-                                    <input id="email" type="email" name="email" placeholder="Email">
-                                    <input id="phone" type="tel" name="phone" placeholder="Phone">
-                                </div>
-                                <div class="col-md-8">
-                                    <textarea id="message" name="messge" placeholder="Your Message Here"></textarea>
-                                    <button type="submit">Send</button>
-                                </div>
-                            </div>
-                            <p class="input-success">Your message sent. Thanks for contacting.</p>
-                            <p class="input-error">Sorry, something went wrong. try again later.</p>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Contact End -->
+        <?php include 'contact.html';?>
     </div>
 
     <?php include 'footer.html';?>

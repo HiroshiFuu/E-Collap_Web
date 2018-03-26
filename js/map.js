@@ -253,7 +253,7 @@ $(document).ready(function () {
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(mapLat, mapLng),
                 map: map,
-                icon: 'images/map-marker.png'
+                icon: '../images/map-marker.png'
             });
         });
     }
